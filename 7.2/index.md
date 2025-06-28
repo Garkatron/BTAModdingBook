@@ -1,22 +1,25 @@
-* [](basic_setup.md)
-* [](quickstart.md)
-* [](select_ide.md)
+# Index
 
-* [](blocks/adding_blocks.md)
-* [](blocks/dragonfly.md)
-* [](blocks/terrain_api.md)
+* [Basic Setup](basic_setup.md)
+* [Quickstart](quickstart.md)
+* [Select IDE](select_ide.md)
 
-* [](items/items.md)
-* [](items/tools.md)
-* [](items/weapons.md)
-  
-* [](hud/hud_elements.md)
-* [](miscellaneous/recipes.md)
-* [](miscellaneous/sounds.md)
-  
-* [](mixins/mixins.md)
-* [](ui/basic_idea.md)
+* [Adding Blocks](blocks/adding_blocks.md)
+* [Dragonfly](blocks/dragonfly.md)
+* [Terrain API](blocks/terrain_api.md)
 
-* [](./../LICENSE)
+* [Items Overview](items/items.md)
+* [Tools](items/tools.md)
+* [Weapons](items/weapons.md)
+
+* [HUD Elements](hud/hud_elements.md)
+* [Recipes](miscellaneous/recipes.md)
+* [Sounds](miscellaneous/sounds.md)
+
+* [Mixins](mixins/mixins.md)
+* [UI Basics](ui/basic_idea.md)
+
+* [License](./../LICENSE)
+
   
 > [Do you need ideas?](https://discord.com/channels/1138825919088312403/1142123554838695997)
