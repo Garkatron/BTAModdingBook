@@ -8,7 +8,7 @@ To get started you should use a template from GitHub. This template will provide
 
 Start by navigating to the GitHub repository that contains the template.
 
-https://github.com/Turnip-Labs/bta-example-mod
+Use the [Turnip-Labs - bta-example-mod](https://github.com/Turnip-Labs/bta-example-mod)
 
 ### **Use the Template**:
 
@@ -51,6 +51,7 @@ The `gradle.properties` file is a configuration file used by Gradle to define pr
 - **Dependency Versions**: Specifies the versions of the project's dependencies.
 - **Mod Configuration**: Includes specific information about the mod, such as the version, group, and name.
 
+> This is just an example and may be outdated.
 ```yaml
 org.gradle.jvmargs=-Xmx2G
 
@@ -73,11 +74,5 @@ mod_name=examplemod # **your mod name here**
 ```
 
 ## Other templates
-
-https://github.com/Turnip-Labs/bta-example-mod-kotlin
-
-https://github.com/Turnip-Labs/bta-example-mod-scala
-
-# Next steps
-
-[Adding content to your mod](https://www.notion.so/Adding-content-to-your-mod-197fba8485064fadaaa45e11a6f6c3a2?pvs=21)
+* https://github.com/Turnip-Labs/bta-example-mod-kotlin
+* https://github.com/Turnip-Labs/bta-example-mod-scala

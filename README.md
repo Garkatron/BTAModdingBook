@@ -1,6 +1,10 @@
 # BTAModdingBook
 A book for fast learn modding concepts for BTA!
 
+### Previous
+
+[Basic setup](quickstart.md)
+
 ### Versions
 
 [BTA 7.2](7.2/index.md)

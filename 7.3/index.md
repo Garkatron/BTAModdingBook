@@ -1,14 +1,6 @@
 # Index
 
-* [Adding Blocks](blocks/adding_blocks.md)
-* [Dragonfly](blocks/dragonfly.md)
-* [Terrain API](blocks/terrain_api.md)
-
-* [Items Overview](items/items.md)
-* [Tools](items/tools.md)
-* [Weapons](items/weapons.md)
-
-* [HUD Elements](hud/hud_elements.md)
+* [HUD Elements](ui/hud_elements.md)
 * [Recipes](miscellaneous/recipes.md)
 * [Sounds](miscellaneous/sounds.md)
 
