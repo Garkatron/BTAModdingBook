@@ -13,4 +13,5 @@ If it’s an original contribution, I will give you credit. If it’s something 
 
 ### Credits
 > Garkatron/Deus Creator + Editor
+
 > Thanks to 'deeter._' for contributing to this book with their BTA sound documentation. Much appreciated!. [](./7.2/miscellaneous/sounds.md)
