@@ -1,5 +1,6 @@
 # Index
 
+* [Commands](commands/commands.md)
 * [HUD Elements](ui/hud_elements.md)
 * [Recipes](miscellaneous/recipes.md)
 * [Sounds](miscellaneous/sounds.md)
