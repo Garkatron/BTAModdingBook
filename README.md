@@ -8,6 +8,7 @@ A book for fast learn modding concepts for BTA!
 ### Versions
 
 [BTA 7.2](7.2/index.md)
+[BTA 7.3](7.3/index.md)
 
 ### How to contribute
 
