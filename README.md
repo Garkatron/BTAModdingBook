@@ -12,8 +12,6 @@ A book for fast learn modding concepts for BTA!
 
 ### How to contribute
 
-How to Contribute
-
 Fork the repository.
 
 Create a new branch for your contribution.
