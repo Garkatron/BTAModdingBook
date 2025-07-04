@@ -12,9 +12,18 @@ A book for fast learn modding concepts for BTA!
 
 ### How to contribute
 
-Send me your tips, code snippets, corrections, or anything useful via discord DM (deus_xm408). If I find them helpful, I might give you a contributor link.
+Fork the repository.
 
-If it’s an original contribution, I will give you credit. If it’s something you provide but it’s from someone else, you should tell me who it is from so I can give proper credit.
+Create a new branch for your contribution.
+
+Commit your changes.
+
+Push the branch to your fork.
+
+Open a Pull Request (PR).
+
+If your contribution is original, I’ll make sure you get proper credit.
+If you’re sharing work created by someone else, please let me know who the original author is so I can give them appropriate attribution.
 
 ### Credits
 > Garkatron/Deus Creator + Editor
