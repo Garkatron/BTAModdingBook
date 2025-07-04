@@ -1,5 +1,6 @@
 # Index
 
+* [Mod Configuration](mod_configuration/mod_configuration.md)
 * [Commands](commands/commands.md)
 * [HUD Elements](ui/hud_elements.md)
 * [Recipes](miscellaneous/recipes.md)
