@@ -1,8 +1,10 @@
-remote_theme: mmistakes/so-simple-theme
+title: Tu Sitio
+description: Mi sitio con Jekyll
+
+remote_theme: "mmistakes/so-simple-theme"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# So Simple settings
-skin: "dark"  # ⬅️ activa el modo oscuro
+skin: "dark"
