@@ -1,0 +1,18 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body a {
+    color: #bb86fc;
+}
+
+header,
+footer {
+    background-color: #1f1f1f;
+    border-color: #333;
+}
+
+body img {
+    filter: brightness(0.8);
+}

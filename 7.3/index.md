@@ -1,8 +1,6 @@
----
-layout: home
-title: Inicio
----
-
+<head>
+<link rel="stylesheet" href="./dark_mode.css">
+</head>
 
 # Index
 
