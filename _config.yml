@@ -1,9 +1,8 @@
-title: Mi sitio con Minimal Mistakes
 theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 minimal_mistakes_skin: "dark"
