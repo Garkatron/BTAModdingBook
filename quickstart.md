@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 # Step 1: Install the JDK
 
 Before starting, you'll need to install the Java Development Kit (JDK). Follow this link for instructions:

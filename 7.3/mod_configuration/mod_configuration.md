@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 # Mod Configuration 
 
 ## Configuration Using TOML

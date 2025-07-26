@@ -1,6 +1,7 @@
-<head>
-<link rel="stylesheet" href="./dark_mode.css">
-</head>
+---
+layout: default
+title: Index
+---
 
 # Index
 

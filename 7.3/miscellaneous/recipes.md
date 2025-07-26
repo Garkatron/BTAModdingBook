@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 # Adding Recipes
 
 Recipes are **essential** if you want to allow the player to use your item without **creative mode**. The following steps on this page will help you add your custom recipes.

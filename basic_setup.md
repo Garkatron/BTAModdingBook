@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 # Basic Setup
 
 ## Clone the Repository

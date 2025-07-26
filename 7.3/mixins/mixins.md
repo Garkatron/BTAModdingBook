@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 # Mixins
 
 [Fabric page about it](https://fabricmc.net/wiki/tutorial:mixin_introduction)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Index
+---
+
 ## 😍IntelliJ IDEA Community Edition
 
 IntelliJ IDEA Community Edition is a free and open-source integrated development environment (IDE) developed by JetBrains. It supports a wide range of programming languages and frameworks, making it a versatile tool for developers.
