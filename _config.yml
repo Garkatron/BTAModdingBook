@@ -5,7 +5,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-coffeescript
 
-# Opcional: para activar la skin oscura
 minimal_mistakes_skin: "dark"
