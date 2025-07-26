@@ -1,6 +1,5 @@
-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-minimal_mistakes_skin: "dark"
+remote_theme: mmistakes/minimal-mistakes@4.24.0
