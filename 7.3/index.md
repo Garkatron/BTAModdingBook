@@ -1,3 +1,9 @@
+---
+layout: home
+title: Inicio
+---
+
+
 # Index
 
 * [Mod Configuration](mod_configuration/mod_configuration.md)
